@@ -12,7 +12,7 @@
 		<!--Specifies the name of the unscaled model (.osim) and the marker set.-->
 		<GenericModelMaker>
 			<!--Model file (.osim) for the unscaled model.-->
-			<model_file>Unassigned</model_file>
+			<model_file>gait10dof18.osim</model_file>
 			<!--Set of model markers used to scale the model. Scaling is done based on distances between model markers compared to the same distances between the corresponding experimental markers.-->
 			<marker_set_file>sub01_markers.xml</marker_set_file>
 		</GenericModelMaker>
@@ -486,9 +486,9 @@
 			<!--Time range over which the marker positions are averaged.-->
 			<time_range> 1 1.01</time_range>
 			<!--Name of the motion file (.mot) written after marker relocation (optional).-->
-			<output_motion_file>../Gait2354_Simbody/subject01_static_output.mot</output_motion_file>
+			<output_motion_file>../Gait10dof18/subject01_static_output.mot</output_motion_file>
 			<!--Output OpenSim model file (.osim) after scaling and maker placement.-->
-			<output_model_file>../Gait2354_Simbody/subject01_simbody.osim</output_model_file>
+			<output_model_file>../Gait10dof18/subject01_simbody.osim</output_model_file>
 			<!--Output marker set containing the new marker locations after markers have been placed.-->
 			<output_marker_file>Unassigned</output_marker_file>
 			<!--Maximum amount of movement allowed in marker data when averaging frames of the static trial. A negative value means there is not limit.-->
