@@ -486,9 +486,9 @@
 			<!--Time range over which the marker positions are averaged.-->
 			<time_range> 1 1.01</time_range>
 			<!--Name of the motion file (.mot) written after marker relocation (optional).-->
-			<output_motion_file>/Users/Ella/Documents/OpenSim/4.1/Models/Gait10dof18musc/../Gait10dof18/subject01_static_output.mot</output_motion_file>
+			<output_motion_file>subject01_static_output.mot</output_motion_file>
 			<!--Output OpenSim model file (.osim) after scaling and maker placement.-->
-			<output_model_file>/Users/Ella/Documents/OpenSim/4.1/Models/Gait10dof18musc/../Gait10dof18/subject01_simbody.osim</output_model_file>
+			<output_model_file>subject01_simbody.osim</output_model_file>
 			<!--Output marker set containing the new marker locations after markers have been placed.-->
 			<output_marker_file>Unassigned</output_marker_file>
 			<!--Maximum amount of movement allowed in marker data when averaging frames of the static trial. A negative value means there is not limit.-->
