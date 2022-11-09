@@ -252,7 +252,7 @@
 		<!--The name of the storage (.sto or .mot) file containing coordinate observations.Coordinate values from this file are included if there is a corresponding coordinate task. -->
 		<coordinate_file></coordinate_file>
 		<!--Time range over which the inverse kinematics problem is solved.-->
-		<time_range> 0.5 2</time_range>
+		<time_range> 0 1.5 </time_range>
 		<!--Name of the motion file (.mot) to which the results should be written.-->
 		<output_motion_file>subject01_walk_IK.mot</output_motion_file>
 	</InverseKinematicsTool>
