@@ -4,8 +4,9 @@
 
 The goal of this project is to make a custom static optimization framework using the OpenSim Python API that will allow us to estimate muscle forces from experimental muscle data and then visualize the results in an interactive app make with TKinter. To learn more check out our presentation:
 
-[https://docs.google.com/presentation/d/1001nQLlKApqGVK3FBlL6m0zl2NVXI9csGdyS3ltmNaE/edit#slide=id.g19864cda026_0_2
+[Google Slides
 ](https://docs.google.com/presentation/d/1001nQLlKApqGVK3FBlL6m0zl2NVXI9csGdyS3ltmNaE/edit?usp=sharing)
+
 To access the custom static optimization code go to our GoogleColab at:
 
 https://colab.research.google.com/drive/1sTfZjfxMwOXnfKJiklIjZ2WANvQyiTAx?usp=sharing
