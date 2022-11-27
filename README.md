@@ -22,4 +22,12 @@ We then put this output in this github repo that our second part of the code wil
 
 #### TKinter Visualizer App
 Once the GoogleColab is run take the output file folder and run the visualizer code to see the outputs.
-* TODO - put info here *
+
+The output from the custom static optimizaton is then fed into the Tkinter Visualizer App that can be found in the files:
+FinalProject_TkInter_NotepadInput.py
+FinalProject_TkInter_CSVInput.py
+
+The notepad input parses an output from OpenSim and the CSVInput pulls the CSV file for the github into a Pandas dataframe. 
+
+To utilize our code, make sure to install all the nessecary packages and then run the code. The code will create a TkInter Gui that can be used to visualize the output
+from the custom static optimization. 
