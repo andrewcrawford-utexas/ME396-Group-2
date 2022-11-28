@@ -29,4 +29,4 @@ FinalProject_TkInter_CSVInput.py
 
 The notepad input parses an output from OpenSim and the CSVInput pulls the CSV file for the github into a Pandas dataframe. 
 
-To utilize our code, make sure to install all the nessecary packages, download front_small.png, download back_small.png, dowload ExampleStaticOPtimizationOutput.sto and then run the code. The code will create a TkInter Gui that can be used to visualize the outputfrom the custom static optimization. 
+To utilize our code, make sure to install all the nessecary packages, download front_small.png, download back_small.png, download ExampleStaticOPtimizationOutput.sto and then run the code. The code will create a TKinter Gui that can be used to visualize the outputfrom the custom static optimization. 
